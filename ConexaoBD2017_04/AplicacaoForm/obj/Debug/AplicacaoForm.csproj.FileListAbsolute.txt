@@ -1,0 +1,87 @@
+C:\simulador versoes\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.pdb
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\Biblioteca.dll
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\Biblioteca.pdb
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csprojResolveAssemblyReference.cache
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.Properties.Resources.resources
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.GenerateResource.Cache
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.exe
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.pdb
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.FormListagem.resources
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.FormPrincipal.resources
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.FormCadastroAluno.resources
+C:\Users\professor\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.FormAlteracao.resources
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.exe
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.pdb
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\bin\Debug\AplicacaoForm.exe
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\bin\Debug\AplicacaoForm.pdb
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\bin\Debug\Biblioteca.dll
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\bin\Debug\Biblioteca.pdb
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.csprojResolveAssemblyReference.cache
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.FormAlteracao.resources
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.FormCadastroAluno.resources
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.FormListagem.resources
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.FormPrincipal.resources
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.Properties.Resources.resources
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.GenerateResource.Cache
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\AplicacaoForm\obj\Debug\AplicacaoForm.FormCadastrarNota.resources
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.exe
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.pdb
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\bin\Debug\AplicacaoForm.exe
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\bin\Debug\AplicacaoForm.pdb
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\bin\Debug\Biblioteca.dll
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\bin\Debug\Biblioteca.pdb
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.FormAlteracao.resources
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.FormCadastrarNota.resources
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.FormCadastroAluno.resources
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.FormListagem.resources
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.FormPrincipal.resources
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.Properties.Resources.resources
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.GenerateResource.Cache
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\AplicacaoForm.exe
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\AplicacaoForm.pdb
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\Biblioteca.dll
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\Biblioteca.pdb
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.csprojResolveAssemblyReference.cache
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.Conexao.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\Biblioteca.GerarComanda.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.Properties.Resources.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.GenerateResource.Cache
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.exe
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.exe
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\AplicacaoForm.exe
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\AplicacaoForm.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\Biblioteca.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\bin\Debug\Biblioteca.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.Conexao.resources
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\Biblioteca.GerarComanda.resources
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.Principal.resources
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.PrincipalPedido.resources
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\AplicacaoForm\obj\Debug\AplicacaoForm.TelaInfo.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\bin\Debug\AplicacaoForm.exe
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\bin\Debug\AplicacaoForm.pdb
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\bin\Debug\Biblioteca.dll
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\bin\Debug\Biblioteca.pdb
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\AplicacaoForm.csprojResolveAssemblyReference.cache
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\AplicacaoForm.Conexao.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\Biblioteca.GerarComanda.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\AplicacaoForm.Principal.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\AplicacaoForm.PrincipalPedido.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\AplicacaoForm.Properties.Resources.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\AplicacaoForm.TelaInfo.resources
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.GenerateResource.Cache
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\AplicacaoForm.exe
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\AplicacaoForm\obj\Debug\AplicacaoForm.pdb

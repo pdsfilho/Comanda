@@ -1,0 +1,29 @@
+C:\Users\professor\Desktop\ConexaoBD2016\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\professor\Desktop\ConexaoBD2016\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\professor\Desktop\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\professor\Desktop\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Aluno.PC-056\Desktop\ConexaoBD2016_29082016\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\aluno\Desktop\ConexaoBD2016_11042017\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_25042017\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\ConexaoBD2017_25042017(1)\ConexaoBD2017_25042017\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\pdant\Documents\Visual Studio 2017\Projects\ConexaoBD2017_04\Biblioteca\bin\Debug\Biblioteca.pdb
